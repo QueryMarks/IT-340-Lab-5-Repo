@@ -196,3 +196,190 @@ tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 tmpfs           387M  144K  387M   1% /run/user/1000
 tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 18:58:01 up 10:03,  2 users,  load average: 0.00, 0.03, 0.03
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     1997260      330368       34200     1672352     1963384
+Swap:        3783676      926384     2857292
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 18:59:01 up 10:04,  2 users,  load average: 0.08, 0.05, 0.04
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     1997236      330368       34200     1672384     1963408
+Swap:        3783676      926384     2857292
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:00:01 up 10:05,  2 users,  load average: 0.03, 0.04, 0.03
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     1995708      330368       34200     1673912     1964936
+Swap:        3783676      926384     2857292
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:01:01 up 10:06,  2 users,  load average: 0.54, 0.18, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2098456      441616       36680     1464992     1862188
+Swap:        3783676      763476     3020200
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:02:01 up 10:07,  2 users,  load average: 0.20, 0.15, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2134296      404676       36672     1466076     1826348
+Swap:        3783676      761332     3022344
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:03:01 up 10:08,  2 users,  load average: 0.18, 0.15, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2045168      373040       38984     1598320     1915476
+Swap:        3783676      762288     3021388
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  58% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:04:01 up 10:09,  2 users,  load average: 1.68, 0.64, 0.26
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2298832      151392       53092     1539868     1661812
+Swap:        3783676      847352     2936324
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:05:01 up 10:10,  2 users,  load average: 1.18, 0.69, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2029176      542376       35004     1501672     1931468
+Swap:        3783676      819976     2963700
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:06:01 up 10:11,  2 users,  load average: 0.46, 0.58, 0.28
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2026816      506488       35004     1539912     1933828
+Swap:        3783676      819600     2964076
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:07:01 up 10:12,  2 users,  load average: 0.17, 0.47, 0.26
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2036912      496044       35000     1540256     1923732
+Swap:        3783676      817476     2966200
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  136K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:08:01 up 10:13,  2 users,  load average: 0.06, 0.38, 0.24
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2035116      497480       35000     1540628     1925528
+Swap:        3783676      817444     2966232
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  136K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:09:01 up 10:14,  2 users,  load average: 0.02, 0.31, 0.23
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2036036      496532       35000     1540644     1924608
+Swap:        3783676      816920     2966756
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  136K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:10:01 up 10:15,  2 users,  load average: 0.30, 0.35, 0.25
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2100976      455220       36140     1518168     1859668
+Swap:        3783676      773020     3010656
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:11:01 up 10:16,  2 users,  load average: 0.11, 0.29, 0.23
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2099236      456824       36132     1518292     1861408
+Swap:        3783676      773020     3010656
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:12:01 up 10:17,  2 users,  load average: 0.04, 0.23, 0.21
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2100736      455264       36132     1518344     1859908
+Swap:        3783676      772788     3010888
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:13:01 up 10:18,  2 users,  load average: 0.01, 0.19, 0.20
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2099764      456024       36132     1518564     1860880
+Swap:        3783676      772760     3010916
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
+ 19:14:01 up 10:19,  2 users,  load average: 0.23, 0.22, 0.20
+               total        used        free      shared  buff/cache   available
+Mem:         3960644     2105676      442380       38372     1522452     1854968
+Swap:        3783676      772496     3011180
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.4M  385M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.9G  4.0K  1.9G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  140K  387M   1% /run/user/1000
+tmpfs           387M  2.6M  385M   1% /run/user/1001
